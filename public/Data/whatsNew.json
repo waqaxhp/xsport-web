@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "code":"PR-01",
+      "title": "RAVEN : SILVER / CORALS",
+      "category": "Sneakers",
+      "price": "$1,500.00",
+      "rating": 5,
+      "imageUrl": "/content/Images/Product1/Image_2.1.jpg",
+      "hoverImageUrl": "/content/Images/Product1/Image_2.2.jpg"
+    },
+    {
+      "id": 2,
+      "code":"PR-02",
+      "title": "KANETYKS : BERMUDA",
+      "category": "Sneakers",
+      "price": "$1,500.00",
+      "rating": 5,
+      "imageUrl": "/content/Images/Product2/Image_8.1.jpg",
+      "hoverImageUrl": "/content/Images/Product2/Image_8.2.jpg"
+    },
+    {
+      "id": 3,
+      "code":"PR-03",
+      "title": "RAVEN : SILVER MINKS",
+      "category": "Sneakers",
+      "price": "$1,500.00",
+      "rating": 5,
+      "imageUrl": "/content/Images/Product3/Image_6.1.jpg",
+      "hoverImageUrl": "/content/Images/Product3/Image_6.2.jpg"
+    },
+    {
+      "id": 4,
+      "code":"PR-04",
+      "title": "STORMY : BLACK / GLORY",
+      "category": "Sneakers",
+      "price": "$1,500.00",
+      "rating": 5,
+      "imageUrl": "/content/Images/Product4/Image_11.1-min.jpg",
+      "hoverImageUrl": "/content/Images/Product4/Image_11.2-min.jpg"
+    }
+  ]
+  

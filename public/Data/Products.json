@@ -1,0 +1,185 @@
+
+[
+  {
+    "id": 1,
+    "code":"PR-01",
+    "category":"Men",
+    "title": "Kanetyks: Bermuda",
+    "price": "$1,500.00",
+    "rating": "★★★★★",
+    "reviews": "(1 customer review)",
+    "viewers": 43,
+    "sold": 12,
+    "deliveryEstimate": "5 days",
+    "freeDelivery": "Free delivery from $5000.",
+    "deliveryInfo": "We will deliver by courier or to the point of issue of orders tomorrow or on another convenient day. Free fitting and partial order redemption are available.",
+    "images": [
+      "/content/Images/Product1/Image_2.1.jpg",
+      "/content/Images/Product1/Image_2.2.jpg",
+      "/content/Images/Product1/Image_2.3.jpg"
+    ],
+    "reviewsList": ["Great product! Very comfortable and stylish. - John Doe"]
+  },
+  {
+    "id": 2,
+    "code":"PR-02",
+    "category":"Men",
+    "title": "Kanetyks:Purple Bermuda",
+    "price": "$800.00",
+    "rating": "★★★★★",
+    "reviews": "(1 customer review)",
+    "viewers": 43,
+    "sold": 12,
+    "deliveryEstimate": "5 days",
+    "freeDelivery": "Free delivery from $5000.",
+    "deliveryInfo": "We will deliver by courier or to the point of issue of orders tomorrow or on another convenient day. Free fitting and partial order redemption are available.",
+    "images": [
+      "/content/Images/Product2/Image_8.1.jpg",
+      "/content/Images/Product2/Image_8.2.jpg",
+      "/content/Images/Product2/Image_8.3.jpg"
+
+    ],
+    
+    "reviewsList": ["Great product! Very comfortable and stylish. - John Doe"]
+  },
+  {
+    "id": 3,
+    "code":"PR-03",
+    "category":"Men",
+    "title": "Kanetyks:Purple/ Bermuda",
+    "price": "$800.00",
+    "rating": "★★★★★",
+    "reviews": "(1 customer review)",
+    "viewers": 43,
+    "sold": 12,
+    "deliveryEstimate": "5 days",
+    "freeDelivery": "Free delivery from $5000.",
+    "deliveryInfo": "We will deliver by courier or to the point of issue of orders tomorrow or on another convenient day. Free fitting and partial order redemption are available.",
+    "images": [
+      "/content/Images/Product3/Image_6.1.jpg",
+      "/content/Images/Product3/Image_6.2.jpg",
+      "/content/Images/Product3/Image_6.3.jpg"
+    ],
+    "reviewsList": ["Great product! Very comfortable and stylish. - John Doe"]
+  },
+  {
+    "id": 4,
+    "code":"PR-04",
+    "category":"Shoes",
+    "title": "Kanetyks:Purple/ Bermuda",
+    "price": "$800.00",
+    "rating": "★★★★★",
+    "reviews": "(1 customer review)",
+    "viewers": 43,
+    "sold": 12,
+    "deliveryEstimate": "5 days",
+    "freeDelivery": "Free delivery from $5000.",
+    "deliveryInfo": "We will deliver by courier or to the point of issue of orders tomorrow or on another convenient day. Free fitting and partial order redemption are available.",
+    "images": [
+      "/content/Images/Product4/Image_11.1-min.jpg",
+      "/content/Images/Product4/Image_11.2-min.jpg",
+      "/content/Images/Product4/Image_11.3-min.jpg"
+    ],
+    "reviewsList": ["Great product! Very comfortable and stylish. - John Doe"]
+  },
+  {
+    "id": 5,
+    "code":"PR-05",
+    "category":"Shoes",
+    "title": "Kanetyks:Purple/ Bermuda",
+    "price": "$800.00",
+    "rating": "★★★★★",
+    "reviews": "(1 customer review)",
+    "viewers": 43,
+    "sold": 12,
+    "deliveryEstimate": "5 days",
+    "freeDelivery": "Free delivery from $5000.",
+    "deliveryInfo": "We will deliver by courier or to the point of issue of orders tomorrow or on another convenient day. Free fitting and partial order redemption are available.",
+    "images": [
+      "/content/Images/Product5/Image_5.1.jpg",
+      "/content/Images/Product5/Image_5.2.jpg",
+      "/content/Images/Product5/Image_5.3.jpg"
+    ],
+    "reviewsList": ["Great product! Very comfortable and stylish. - John Doe"]
+  },
+  {
+    "id": 6,
+    "code":"PR-06",
+    "category":"Shoes",
+    "title": "Kanetyks:Purple/ Bermuda",
+    "price": "$800.00",
+    "rating": "★★★★★",
+    "reviews": "(1 customer review)",
+    "viewers": 43,
+    "sold": 12,
+    "deliveryEstimate": "5 days",
+    "freeDelivery": "Free delivery from $5000.",
+    "deliveryInfo": "We will deliver by courier or to the point of issue of orders tomorrow or on another convenient day. Free fitting and partial order redemption are available.",
+    "images": [
+      "/content/Images/Product6/Image_12.1-min.jpg",
+      "/content/Images/Product6/Image_12.2-min.jpg",
+      "/content/Images/Product6/Image_12.3-min.jpg"
+    ],
+    "reviewsList": ["Great product! Very comfortable and stylish. - John Doe"]
+  },
+  {
+    "id": 7,
+    "code":"PR-07",
+    "category":"Women",
+    "title": "Kanetyks:Purple/ Bermuda",
+    "price": "$800.00",
+    "rating": "★★★★★",
+    "reviews": "(1 customer review)",
+    "viewers": 43,
+    "sold": 12,
+    "deliveryEstimate": "5 days",
+    "freeDelivery": "Free delivery from $5000.",
+    "deliveryInfo": "We will deliver by courier or to the point of issue of orders tomorrow or on another convenient day. Free fitting and partial order redemption are available.",
+    "images": [
+      "/content/Images/Product7/Image_1.1.jpg",
+      "/content/Images/Product7/Image_1.2.jpg",
+      "/content/Images/Product7/Image_1.3.jpg"
+    ],
+    "reviewsList": ["Great product! Very comfortable and stylish. - John Doe"]
+  },
+  {
+    "id": 8,
+    "code":"PR-08",
+    "category":"Women",
+    "title": "Kanetyks:Purple/ Bermuda",
+    "price": "$800.00",
+    "rating": "★★★★★",
+    "reviews": "(1 customer review)",
+    "viewers": 43,
+    "sold": 12,
+    "deliveryEstimate": "5 days",
+    "freeDelivery": "Free delivery from $5000.",
+    "deliveryInfo": "We will deliver by courier or to the point of issue of orders tomorrow or on another convenient day. Free fitting and partial order redemption are available.",
+    "images": [
+      "/content/Images/Product8/Image_3.1.jpg",
+      "/content/Images/Product8/Image_3.2.jpg",
+      "/content/Images/Product8/Image_3.3.jpg"
+    ],
+    "reviewsList": ["Great product! Very comfortable and stylish. - John Doe"]
+  },
+  {
+    "id": 9,
+    "code":"PR-09",
+    "category":"Women",
+    "title": "Kanetyks:Purple/ Bermuda",
+    "price": "$800.00",
+    "rating": "★★★★★",
+    "reviews": "(1 customer review)",
+    "viewers": 43,
+    "sold": 12,
+    "deliveryEstimate": "5 days",
+    "freeDelivery": "Free delivery from $5000.",
+    "deliveryInfo": "We will deliver by courier or to the point of issue of orders tomorrow or on another convenient day. Free fitting and partial order redemption are available.",
+    "images": [
+      "/content/Images/Product9/Image_10.1-min.jpg",
+      "/content/Images/Product9/Image_10.2-min.jpg",
+      "/content/Images/Product9/Image_10.3-min.jpg"
+    ],
+    "reviewsList": ["Great product! Very comfortable and stylish. - John Doe"]
+  }
+]

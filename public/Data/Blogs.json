@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "mainImage": "/content/Images/post6.jpg",
+    "title": "2021-22 Premier League Away Kits Clubs",
+    "date": "August 14, 2021",
+    "author": "admin",
+    "commentsCount": 0,
+    "paragraphs": [
+      "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+      "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from 'de Finibus Bonorum et Malorum'.",
+      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form."
+    ],
+    "secondaryImage": "/content/Images/Post_5.jpg",
+    "quote": "It's a perfect reflection of the city and you can see the inspiration.",
+    "secondaryParagraph": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.",
+    "socialIcons": [
+      { "name": "facebook", "link": "https://facebook.com" },
+      { "name": "twitter", "link": "https://twitter.com" },
+      { "name": "instagram", "link": "https://instagram.com" },
+      { "name": "linkedin", "link": "https://linkedin.com" },
+      { "name": "pinterest", "link": "https://pinterest.com" }
+    ]
+  },
+  {
+    "id": 2,
+    "mainImage": "/content/Images/Post_3.1.jpg",
+    "title": "Another Blog Post Title",
+    "date": "September 10, 2021",
+    "author": "admin",
+    "commentsCount": 3,
+    "paragraphs": [
+      "Some new text for this post.",
+      "Another paragraph with some information."
+    ],
+    "secondaryImage": "/content/Images/Post_7.jpg",
+    "quote": "New inspiration comes from different places.",
+    "secondaryParagraph": "This is another random text paragraph with a new quote.",
+    "socialIcons": [
+      { "name": "facebook", "link": "https://facebook.com" },
+      { "name": "twitter", "link": "https://twitter.com" },
+      { "name": "linkedin", "link": "https://linkedin.com" }
+    ]
+  },
+  {
+    "id": 3,
+    "mainImage": "/content/Images/post6.jpg",
+    "title": "2021-22 Premier League Away Kits Clubs",
+    "date": "August 14, 2021",
+    "author": "admin",
+    "commentsCount": 0,
+    "paragraphs": [
+      "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+      "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from 'de Finibus Bonorum et Malorum'.",
+      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form."
+    ],
+    "secondaryImage": "/content/Images/Post_5.jpg",
+    "quote": "It's a perfect reflection of the city and you can see the inspiration.",
+    "secondaryParagraph": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.",
+    "socialIcons": [
+      { "name": "facebook", "link": "https://facebook.com" },
+      { "name": "twitter", "link": "https://twitter.com" },
+      { "name": "instagram", "link": "https://instagram.com" },
+      { "name": "linkedin", "link": "https://linkedin.com" },
+      { "name": "pinterest", "link": "https://pinterest.com" }
+    ]
+  }
+]

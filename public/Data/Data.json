@@ -1,0 +1,434 @@
+{
+  "logo": "/content/Images/Logo.png",
+  "menuItems": [
+    { "name": "Shop", "link": "/shop" },
+    { "name": "About Us", "link": "/about-us" },
+    { "name": "Contact Us", "link": "/contact-us" },
+    { "name": "Order", "link": "/order" }
+  ],
+  "wishlistItems": [
+    { "name": "Item 1", "price": 50, "image": "/content/Images/sneakers-boot-2-1.png" },
+    { "name": "Item 2", "price": 75, "image": "/content/Images/sneakers-boot1.png" }
+  ],
+  "cartItems": [
+    { "name": "Item 3", "price": 100, "image": "/content/Images/sneakers-boot-2-1.png" },
+    { "name": "Item 4", "price": 150, "image": "/content/Images/sneakers-boot1.png" }
+  ],
+  "backgroundImage": "/content/Images/home-bg.jpeg",
+  "shoeImages": [
+    {
+      "src": "/content/Images/sneakers-boot-2-1.png",
+      "alt": "Shoe Image 1"
+    },
+    {
+      "src": "/content/Images/sneakers-boot1.png",
+      "alt": "Shoe Image 2"
+    }
+  ],
+  "content": {
+    "tagline": "Done Without Compromise",
+    "heading": "Rational",
+    "subText": "Scroll Down"
+  },
+  "newCollection": {
+    "title": "NEW COLLECTION XSTORE",
+    "sections": [
+      {
+        "name": "Men",
+        "image": "/content/Images/Image-1-3.jpg",
+        "description": "Choose a trail and we will provide right equipment",
+        "buttonText": "LOAD MORE",
+        "buttonLink": "/"
+      },
+      {
+        "name": "Shoes",
+        "image": "/content/Images/Image-2-1.jpg",
+        "description": "Discover our new collection for asphalt running",
+        "buttonText": "LOAD MORE",
+        "buttonLink": "/"
+      },
+      {
+        "name": "Women",
+        "image": "/content/Images/Image-5.jpg",
+        "description": "Discount up to 50% on product from previous season",
+        "buttonText": "LOAD MORE",
+        "buttonLink": "/"
+      }
+    ]
+  },
+  "InteractiveCards": [
+    {
+      "backgroundImage": "/content/Images/sneakers-row-bg-qoqi7nr65uj2z0xyg2amqw8g404qfb0028ce7nobd4.jpeg"
+    },
+    {
+      "id": 1,
+      "iconPosition": { "top": "30%", "left": "20%" },
+      "title": "Asphalt Running",
+      "name": "Raven : Silver Minks – Corals",
+      "price": "$1,500.00",
+      "rating": 5,
+      "imageUrl": "/content/Images/Image_10.1-min-300x300.jpg"
+    },
+    {
+      "id": 2,
+      "iconPosition": { "top": "50%", "left": "40%" },
+      "title": "Another Product",
+      "name": "Product Details Here",
+      "price": "$1,200.00",
+      "rating": 4,
+      "imageUrl": "/content/Images/Image_11.1-min-300x300.jpg"
+    },
+    {
+      "id": 3,
+      "iconPosition": { "top": "60%", "left": "70%" },
+      "title": "New Arrival",
+      "name": "Latest Edition Shoes",
+      "price": "$1,700.00",
+      "rating": 5,
+      "imageUrl": "/content/Images/Image_4.1-300x300.jpg"
+    }
+  ],
+  "trailCollectionDetails": {
+    "id": 1,
+    "title": "Trail Collection",
+    "subtitle": "New Balance, Super Soft Support",
+    "description": "A great collection for both men and women.",
+    "backgroundImage": "/content/Images/Image-4-1.jpg",
+    "buttonLabels": {
+      "men": "SHOP MEN",
+      "women": "SHOP WOMEN"
+    }
+  },
+  "Werun": {
+    "id": 1,
+    "title": "Trail Collection",
+    "subtitle": "New Balance, Super Soft Support",
+    "description": "A great collection for both men and women.",
+    "backgroundImage": "/content/Images/Image-6.jpg",
+    "buttonLabels": {
+      "men": "Top Picks For Runner"
+     
+    }
+  },
+  "products": [
+    {
+      "id": 1,
+      "title": "KANETYKS : BERMUDA",
+      "category": "Sneakers",
+      "price": 1500.0,
+      "rating": 5,
+      "imageUrl": "/content/Images/Image-1-3.jpg"
+    },
+    {
+      "id": 2,
+      "title": "KANETYKS : STYLER",
+      "category": "Sneakers",
+      "price": 1200.0,
+      "rating": 4,
+      "imageUrl": "/content/Images/Image-2-1.jpg"
+    },
+    {
+      "id": 3,
+      "title": "KANETYKS : CASUAL",
+      "category": "Sneakers",
+      "price": 1000.0,
+      "rating": 4.5,
+      "imageUrl": "/content/Images/Image-4-1.jpg"
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": 1,
+      "image": "/content/Images/Post_1.jpg",
+      "date": "14 Aug",
+      "category": "Uncategorized",
+      "title": "WITH SKATEBOARDING HEADED TO TOKYO DESIGN",
+      "description": "The Quai 54 collection and a sportswear collection based on the national team jersey bookend two of basketball's great recreational spaces...",
+      "author": "admin"
+    },
+    {
+      "id": 2,
+      "image": "/content/Images/Post_2.jpg",
+      "date": "14 Aug",
+      "category": "Uncategorized",
+      "title": "THE ZOOMX BRUIN IS A TRIBUTE TO BODECKER",
+      "description": "The combination of white, pink blast, total orange and bright crimson will mark Nike’s presence in Tokyo across select performance...",
+      "author": "admin"
+    },
+    {
+      "id": 3,
+      "image": "/content/Images/Post_3.1.jpg",
+      "date": "14 Aug",
+      "category": "Uncategorized",
+      "title": "MLB CONNECT SERIES EXPLORES BASEBALL",
+      "description": "NIKE, Inc. (NYSE:NKE) today reported financial results for its fiscal 2021 fourth quarter and full year ended...",
+      "author": "admin"
+    },
+    {
+      "id": 4,
+      "image": "/public/content/Images/Post_3.jpg",
+      "date": "14 Aug",
+      "category": "Uncategorized",
+      "title": "A NEW ERA OF SPORTSWEAR",
+      "description": "Nike introduces its new sportswear line inspired by Tokyo's fast-paced lifestyle...",
+      "author": "admin"
+    }
+  ],
+  "footer": 
+  {
+    "availability": {
+      "hours": "8:00am – 7:00pm",
+      "phone": "+44 79 9955 7583"
+    },
+   
+    "socialMedia": [
+      { "name": "Facebook", "icon": "FaFacebookF", "link": "#" },
+      { "name": "Twitter", "icon": "FaXTwitter", "link": "#" },
+      { "name": "Instagram", "icon": "FaInstagram", "link": "#" },
+      { "name": "YouTube", "icon": "FaYoutube", "link": "#" },
+      { "name": "Telegram", "icon": "FaTelegramPlane", "link": "#" }
+    ],
+    "links": {
+      "company": [
+        { "name": "About Us", "link": "#" },
+        { "name": "Blog", "link": "#" },
+        { "name": "Contact Us", "link": "#" }
+      ],
+      "support": [
+        { "name": "Contact Us", "link": "#" },
+        { "name": "Returns", "link": "#" },
+        { "name": "Privacy Policy", "link": "#" }
+      ]
+    },
+    "subscription": {
+      "offerText": "$20 off your first order",
+      "placeholder": "Your email id...",
+      "buttonText": "SUBSCRIBE",
+      "disclaimer": "* Don't worry, we won't spam our customers' mailboxes"
+    },
+    "copyright": "Copyright © 2024"
+    
+  },
+  
+    "JoinInstagram": [
+      {
+        "heading": "JOIN INSTAGRAM",
+        "username": "@xsportshoes",
+        "description": "Elementor WooCommerce Demo. Contemporary running shoes sample authentic style modern man and women. Follow us for the latest deals. Tag us and get featured @xsportshoes",
+        "website": "instagram.com/xsportshoes",
+        "imageUrl": "/content/Images/Group-1-1.jpg"
+      }
+    ],
+    
+      "Aboutus": [
+    {
+      "title": "MAKE A DIFFERENCE",
+      "description": "Contemporary running shoes sample authentic styles, modern men and women. Follow us for the latest deals. Tag us and get featured.",
+      "mainImage": "/content/Images/Image-7.jpg",
+      "sections": [
+        {
+          "icon": "/content/Images/Icon-1.png",
+          "title": "OUR HISTORY"
+        },
+        {
+          "icon": "/content/Images/Icon-2.png",
+          "title": "TAKE A TOUR"
+        },
+        {
+          "icon": "/content/Images/Icon.png",
+          "title": "ROUTES AVAILABLE"
+        },
+        {
+          "icon": "/content/Images/Vector.png",
+          "title": "SUCCESS STORY"
+        }
+      ]
+    }
+  ],
+  
+    "header": {
+      "name": "CONTACT US"
+    },
+    "map": {
+      "latitude": 33.621265,
+      "longitude": 73.142517
+    },
+    "leftSection": {
+      "title": "GET IN TOUCH.",
+      "description": "We’re here to assist you with any questions or issues you might have regarding your recent shoe purchase. Whether it’s a sizing concern, a defect, or any other problem, our customer support team is ready to help. Please provide your order number and a brief description of the issue, and we’ll get back to you as soon as possible. Your satisfaction is our top priority!",
+      "contactDetails": [
+        {
+          "label": "OFFICE IN UK:",
+          "value": null
+        },
+        {
+          "label": "Phone",
+          "value": "📞 +44 79 9955 7583"
+        },
+        {
+          "label": "Location",
+          "value": "📍 UK"
+        },
+        {
+          "label": "Email",
+          "value": "✉️ support@abc.com"
+        },
+        {
+          "label": "Hours",
+          "value": "🕒 Monday to Saturday: 8am to 7pm"
+        }
+      ]
+    },
+    "formPlaceholders": {
+      "name": "Your Name",
+      "email": "Your email",
+      "message": "Your message"
+    },
+    "button": {
+      "text": "SEND MESSAGE"
+    },
+   "Order": [
+    {
+      "header": {
+        "name": "TRACK ORDER"
+      },
+      "content": {
+        "title": "Be always up to date with your order",
+        "description": "To track your order please enter your Order ID in the box below and press the \"Track\" button. This was given to you on your receipt and in the confirmation email you should have received.",
+        "inputs": [
+          {
+            "id": "orderId",
+            "label": "Order ID",
+            "placeholder": "Found in your order confirmation email.",
+            "type": "text"
+          },
+          {
+            "id": "billingEmail",
+            "label": "Billing email",
+            "placeholder": "Email you used during checkout.",
+            "type": "email"
+          }
+        ],
+        "buttonText": "Track"
+      }
+    }
+  ],
+  
+    "brands": [
+      {
+        "id": 1,
+        "name": "Adidas",
+        "imageSrc": "/content/Images/brand-01.jpg",
+        "altText": "Adidas"
+      },
+      {
+        "id": 2,
+        "name": "Converse",
+        "imageSrc": "/content/Images/brand-02.jpg",
+        "altText": "Converse"
+      },
+      {
+        "id": 3,
+        "name": "Vans",
+        "imageSrc": "/content/Images/brand-03.jpg",
+        "altText": "Vans"
+      },
+      {
+        "id": 4,
+        "name": "New Balance",
+        "imageSrc": "/content/Images/brand-04.jpg",
+        "altText": "New Balance"
+      },
+      {
+        "id": 5,
+        "name": "Nike",
+        "imageSrc": "/content/Images/brand-05.jpg",
+        "altText": "Nike"
+      },
+      {
+        "id": 6,
+        "name": "Puma",
+        "imageSrc": "/content/Images/brand-06.jpg",
+        "altText": "Puma"
+      }
+    ],
+    
+      "DeliveryAndReturns": [
+        {
+          "id": 1,
+          "title": "EASY RETURNS",
+          "description": "Choose Order Pickup for your item Then when your order is ready.",
+          "image": "/content/Images/download.png"
+        },
+        {
+          "id": 2,
+          "title": "50% CASHBACK",
+          "description": "Earn every day on xstore.com, Start your free trial now. Terms apply.",
+          "image": "/content/Images/download 5.png"
+        },
+        {
+          "id": 3,
+          "title": "FREE SHIPPING",
+          "description": "Your Shipt shopper will leave your order right ot your doorstep.",
+          "image": "/content/Images/download 2.png"
+        },
+        {
+          "id": 4,
+          "title": "CURBSIDE DELIVER",
+          "description": "When order is ready, switch to curbside Drive Up in the Xstore opp.",
+          "image": "/content/Images/download 3.png"
+        }
+      ],
+      "PromoSection":
+      [
+        {
+          "image": "/content/Images/head1.jpg",
+          "title": "REFURBISH",
+          "description": "100% ENVIRONMENT SAVING",
+          "buttonText": "PURCHASE IT",
+          "link": "#"
+        },
+        {
+          "image": "/content/Images/head2.jpg",
+          "title": "SAVE 50%",
+          "description": "OFFER! ON REGISTRATION",
+          "buttonText": "GRAB OFFER!",
+          "link": "#"
+        }
+      ],
+      "BlogData":
+      [
+        {
+          "id": 1,
+          "title": "Understanding React",
+          "image": "https://via.placeholder.com/600x400",
+          "date": "2024-11-28",
+          "author": "John Doe",
+          "comments": 5,
+          "data": "React is a popular JavaScript library.",
+          "data2": "Learn how to create dynamic UIs.",
+          "text1": "React allows for efficient UI development.",
+          "content": "React helps developers build user interfaces efficiently and effectively.",
+          "quote": "React is not just a library; it's a toolset for UI developers.",
+          "image2": "https://via.placeholder.com/400x400",
+          "relatedPosts": [2, 3]
+        },
+        {
+          "id": 2,
+          "title": "Mastering JavaScript",
+          "image": "https://via.placeholder.com/600x400",
+          "date": "2024-11-25",
+          "author": "Jane Smith",
+          "comments": 8,
+          "data": "Deep dive into JavaScript.",
+          "data2": "Learn advanced concepts.",
+          "text1": "JavaScript is the backbone of the web.",
+          "content": "Understanding JavaScript is essential for any web developer.",
+          "quote": "JavaScript makes the web dynamic.",
+          "image2": "https://via.placeholder.com/400x400",
+          "relatedPosts": [1, 3]
+        }
+      ]
+    
+    
+}
